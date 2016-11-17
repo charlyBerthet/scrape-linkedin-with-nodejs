@@ -8,11 +8,11 @@ Scrape Linkedin profiles has never been so simple with nodejs :D !
 
 ## Get started
 
-1. Download the module
+1.Download the module
 ```
 npm install scrape-linkedin
 ```
-2. Use the module
+2.Use the module
 ```javascript
 // Import the module in your file
 var ScrapeLinkedin = require("./scrape-linkedin");
