@@ -35,7 +35,7 @@ scrapper.fetch("charlyberthet")
 You can customize the scraper by passing your configuration. 
 ```javascript
 // Import the module in your file
-var ScrapeLinkedin = require("./scrape-linkedin");
+var ScrapeLinkedin = require("scrape-linkedin");
 
 // Create the scraper object
 var scrapper = new ScrapeLinkedin({
@@ -49,7 +49,7 @@ var scrapper = new ScrapeLinkedin({
 
 ```
 
-## Thanks for
+## Thanks to
 
 * [phantom](https://github.com/amir20/phantomjs-node)
 * [request](https://github.com/request/request)
