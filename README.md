@@ -4,7 +4,7 @@
 Scrape Linkedin profiles has never been so simple with nodejs :D !
 
 
- * Npm page: [scrape-linkedin](https://github.com/jbt/markdown-editor).
+ * Npm page: [scrape-linkedin](https://www.npmjs.com/package/scrape-linkedin).
 
 ## Get started
 
