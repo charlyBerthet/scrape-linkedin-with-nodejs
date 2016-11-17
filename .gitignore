@@ -35,3 +35,13 @@ jspm_packages
 
 # Optional REPL history
 .node_repl_history
+
+#intelliJ
+.idea
+*.iml
+
+#MAC
+.DS_Store
+
+# my main test
+index.js
