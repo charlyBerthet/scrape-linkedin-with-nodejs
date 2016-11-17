@@ -15,7 +15,7 @@ npm install scrape-linkedin
 2.Use the module
 ```javascript
 // Import the module in your file
-var ScrapeLinkedin = require("./scrape-linkedin");
+var ScrapeLinkedin = require("scrape-linkedin");
 
 // Create the scraper object
 var scrapper = new ScrapeLinkedin();
