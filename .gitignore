@@ -42,6 +42,3 @@ jspm_packages
 
 #MAC
 .DS_Store
-
-# my main test
-index.js
