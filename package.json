@@ -1,6 +1,6 @@
 {
   "name": "scrape-linkedin",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Scrape Linkedin profiles has never been so simple with nodejs :D !",
   "author" : "Charly Berthet <contact.charlyberthet@gmail.com>",
   "scripts": {
