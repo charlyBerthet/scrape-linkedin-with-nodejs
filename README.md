@@ -1,4 +1,4 @@
-
+NO LONGER WORKING AND I HAVE NO TIME TO MAINTAIN IT - JUST EMAIL ME IF YOU WANT TO CO-WORK ON IT.
 
 # scrape-linkedin-with-nodejs
 Scrape Linkedin profiles has never been so simple with nodejs :D !
